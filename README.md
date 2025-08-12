@@ -122,7 +122,7 @@ This script is released under the MIT License. See the `LICENSE` file for detail
 
 ## Author
 
-Your Name – \[[your.email@example.com](mailto:your.email@example.com)]
+Karthikeya Bellana – \[[bellanakarthikeya@gmail.com](mailto:bellanakarthikeya@gmail.com)]
 
 ```
 
