@@ -1,4 +1,4 @@
-Absolutely! Here's a clean and complete **single-text** version of your `README.md`, written in Markdown and incorporating best practices like structure, clarity, usage examples, and context. It supports your Python script that calculates temperature via a quadratic model using three input methods (hardcoded, keyboard, and file):
+##Weather_Paglu
 
 ---
 
